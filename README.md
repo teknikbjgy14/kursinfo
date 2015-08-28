@@ -133,7 +133,6 @@ I graderingen tas hänsyn till:
 
 ### Vecka 51 ###
 
-
 **JULLOV**
 
 ### Vecka 2 ###
@@ -163,10 +162,10 @@ I graderingen tas hänsyn till:
 
 ### Vecka 9 ###
 
+- **Sportlov**
 
 ### Vecka 10 ###
 
-- **Sportlov**
 
 ### Vecka 11 ###
 
@@ -177,13 +176,13 @@ I graderingen tas hänsyn till:
 
 ### Vecka 13 ###
 
+- **Påsklov**
 
 ### Vecka 14 ###
 
 
 ### Vecka 15 ###
 
-- **Påsklov**
 
 ### Vecka 16 ###
 
