@@ -1,9 +1,7 @@
-# Programmering 1
+# Programmering 2
 
 
-Denna repo kommer att innehålla ett antal ipython arbetsböcker som ett stöd i undervisningen för gymnasiets kurs Programmering 1. Readme-filen innehåller upplägg och planering för kursen HT14 / VT15.
-
-[Arbetsböcker](http://nbviewer.ipython.org/github/teknikbjgy14/kursinfo/tree/master/notebooks/)
+Denna readme-fil innehåller upplägg, innehåll och beskrivning av examinationer till kursen Programmering 2.
 
 ## Mål
 
@@ -18,21 +16,25 @@ Efter avslutad kurs förväntas eleven kunna:
 
 ### Prov
 
-- **Prov 1 Variabler, selektioner och iterationer**
-- **Prov 2 Listor, dicts, tuples, funktioner, klasser och objekt**
-- **Prov 3 Grafiska användargränssnitt, sökningar och sorteringar samt rekursiva metoder**
 - **Kursprov**
 
 ### Inlämningar
 
-- **Hemuppgift 1**
-- **Hemuppgift 2**
-- **Projektuppg**
+För att uppnå ett E i betyg krävs inlämning på GitHub av:
+
+-**OOP-modulen**
+-**PyQt-modulen**
+-**Database-modulen**
+-**Slutprojekt**
+
+För högre betyg krävs även inlämning på GitHub av:
+
+- **Inlämning 1**
+- **Inlämning 2**
 
 ### Övrigt
 
-- **Uppvisade kunskaper under lektionstid**
-- **Genomförda lektionsuppgifter**
+
 
 ## Gradering
 
@@ -40,7 +42,8 @@ I graderingen tas hänsyn till:
 
 - Hur läsbar är koden?
 - Följs angivna regler för namngivning och struktur av källkod?
-- Hur väl är pseudokoden och aktivitetsdiagrammen beskrivna?
+- Hur väl är pseudokoden och klassdiagrammen beskrivna?
+- Hur väl är programmet strukturerat efter de konvetioner som gåtts igenom i kursen?
 - Hur väl är kommentarer infogade i källkoden?
 - Hur väl är uppgiften genomförd?
 - Hur väl har planeringen och analysen av uppgiften gått till?
@@ -48,170 +51,92 @@ I graderingen tas hänsyn till:
 
 ## Kursinnehåll
 
-### Block 1
 
+### Basics
+
+-**GitHub**
 - Programmeringsspråk och körmiljöer
 - Variabler
 - Primitiva datatyper
-    - int
-    - float
-    - String
-    - Boolean
 - Selektioner
 - Iterationer
-
-### Block 2
-
-- Mer om strängar
-- Listor och Tipplar
-- Dictionaries
-- Teckentabeller
+- Listor, Tipplar, Dictionaries
 - Funktioner
-- Klasser
 
-### Block 3
+### Block 1 OOP Object-Oriented-Programming
 
-- Sökning (linjär och binär)
-- Sortering (Urvals- och Bubbelsortering)
-- Rekursiva metoder
-- Felhantering
-- Filhantering
+-klasser
+-klassdiagramm
+-dokumentering
+-Principer för OOP
+  -Inkapsling
+  -Arv
+  -Polymorfism
+  -Abstraktion
+-Iteratorer och Generatorer
+-Prototyping
+-Refactoring
+-Designmöster/principer
+
+### Block 2 PyQt
+
+
+
+### Block 3 Database (Server Side Scripting)
+
+
 
 ## Planering
 
 ### Vecka 35###
 
-- Kursintroduktion + studieteknik + Code Academy
+- Kursintroduktion
 - **Start Block 1**
-
-### Vecka 37 ###
-
 
 ### Vecka 38 ###
 
+- Block 1 OOP
 
-### Vecka 39 ###
-
-
-### Vecka 40 ###
-
-
-### Vecka 41 ###
-
-
-### Vecka 42 ###
-
-
-### Vecka 43 ###
-
-- **Prov 1**
-
-### Vecka 44 ###
-
-- **Höstlov**
+- **Höstlov v.44**
 
 
 ### Vecka 45 ###
 
-- **Hemuppgift 1**
-- **Start Block 2**
-
-### Vecka 46 ###
-
-
-### Vecka 47 ###
-
-
-### Vecka 48 ###
-
+- Block 2 PyQt
 
 ### Vecka 49 ###
 
+- Inlämning 1
+- Block 3 Databases
 
-### Vecka 50 ###
-
-
-### Vecka 51 ###
-
-**JULLOV**
+**JULLOV v.51**
 
 ### Vecka 2 ###
 
 
-### Vecka 3 ###
-
-- **Prov 2**
-
 ### Vecka 4 ###
 
-- **Hemuppgift 2**
-
-- **Start Block 3**
-
-### Vecka 5 ###
-
-
-### Vecka 6 ###
-
-
-### Vecka 7 ###
-
+- Inlämning 2
+- Projektuppgift
 
 ### Vecka 8 ###
 
+**Prov**
 
 ### Vecka 9 ###
 
-- **Sportlov**
+**Sportlov v.10**
 
-### Vecka 10 ###
-
-
-### Vecka 11 ###
-
-
-### Vecka 12 ###
-
-- **Prov 3**
 
 ### Vecka 13 ###
 
-- **Påsklov**
-
-### Vecka 14 ###
-
-
-### Vecka 15 ###
-
-
-### Vecka 16 ###
-
-
-### Vecka 17 ###
-
-
-### Vecka 18 ###
-
-- **Kursprov**
-
-### Vecka 19 ###
-
+- **Påsklov v.15**
 
 ### Vecka 20 ###
 
 - **Inlämning Projektuppgift**
 
-### Vecka 21 ###
 
-
-### Vecka 22 ###
-
-
-### Vecka 23 ###
-
-
-### Vecka 24 ###
-
-**Skolavslutning**
+**Skolavslutning v.24**
 
 ---
