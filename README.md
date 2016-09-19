@@ -8,7 +8,7 @@ Denna readme-fil innehåller upplägg, innehåll och beskrivning av examinatione
 Efter avslutad kurs förväntas eleven kunna:
 - Planera ett program från pappersstadiet till ett färdigt program
 - Skriva strukturerad kod som följer konventioner inom programmering.
-- Skriva pseudokod och aktivitetsdiagram för ett program.
+- Skriva pseudokod och klassdiagram för ett program.
 - Kunna hantera de vanligaste strukturerna och operationerna inom programmering
 - Kunna skriva enkla metoder och klasser för användning inom ett större program.
 
@@ -22,10 +22,10 @@ Efter avslutad kurs förväntas eleven kunna:
 
 För att uppnå ett E i betyg krävs inlämning på GitHub av:
 
--**OOP-modulen**
--**PyQt-modulen**
--**Database-modulen**
--**Slutprojekt**
+- **OOP-modulen**
+- **PyQt-modulen**
+- **Database-modulen**
+- **Slutprojekt**
 
 För högre betyg krävs även inlämning på GitHub av:
 
@@ -54,7 +54,7 @@ I graderingen tas hänsyn till:
 
 ### Basics
 
--**GitHub**
+- GitHub
 - Programmeringsspråk och körmiljöer
 - Variabler
 - Primitiva datatyper
@@ -65,18 +65,20 @@ I graderingen tas hänsyn till:
 
 ### Block 1 OOP Object-Oriented-Programming
 
--klasser
--klassdiagramm
--dokumentering
--Principer för OOP
-  -Inkapsling
-  -Arv
-  -Polymorfism
-  -Abstraktion
--Iteratorer och Generatorer
--Prototyping
--Refactoring
--Designmöster/principer
+- klasser och objekt
+- klassdiagramm
+- dokumentering
+- Principer för OOP
+  - Inkapsling
+  - Arv
+  - Polymorfism
+  - Abstraktion
+- Iteratorer och Generatorer
+- Prototyping
+- Refactoring
+- Designmöster/principer
+- mer om algoritmer
+- magic methods
 
 ### Block 2 PyQt
 
